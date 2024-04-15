@@ -1,0 +1,5 @@
+id, nombres, apellidos, direccion, correo, dni, edad, fecha_creacion, telefono
+1, John, Doe,Calle Falsa 123,john@example.com,12345678,30,Thu Nov 30 1899 00:00:00 GMT-0312 (hora estándar de Brasilia),-8223
+ 2, Jane, Smith,Avenida Principal 456,jane@example.com,87654321,25,Thu Nov 30 1899 00:00:00 GMT-0312 (hora estándar de Brasilia),-2877
+ 3, Alice, Johnson,Plaza Central 789,alice@example.com,13579246,35,Thu Nov 30 1899 00:00:00 GMT-0312 (hora estándar de Brasilia),-456
+ 
